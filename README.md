@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pavlostheone
 - 👀 I’m interested in games
 - 🌱 I’m currently learning C++ hopefully
-- 💞️ I’m looking to collaborate on learning programming
+- 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me just send an email to me via danielmironidis@gmail.com
 
 <!---
